@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #875fc0;
+    background-size: cover;
+
+    width: 90vw;
+    padding: 20px;
+    font-family: "Roboto";
+    margin: 1
+}
+
+.h-score {
+    color: #ffffff;
+    font-size: 30px;
+    text-align: right;
+}
+
+.top-card {
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 7px;
+    text-align: center;
+    margin: 15px;
+}
+
+.card-head {
+    font-size: 30px;
+    color: #1f2933;
+}
+
+.card-para {
+    color: #323f4b;
+}
+
+.image {
+    width: 60vw;
+    height: 20vh;
+}
+
+.bottom-card {
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 7px;
+    text-align: center;
+    margin: 15px;
+}
+
+.options-list {
+    border-style: solid;
+    border-color:
+        border-width: 1px;
+    text-align: left;
+    list-style-type: none;
+    margin: 10px;
+    border-radius: 7px;
+    padding: 7px;
+
+}
+
+.bg-color {
+    background-color: #875fc0;
+    color: #ffffff;
+}
+
+.button {
+    background-color: #fbaf00;
+    color: #ffffff;
+    border-width: 0px;
+    border-radius: 5px;
+    width: 90px;
+    height: 35px;
+}
